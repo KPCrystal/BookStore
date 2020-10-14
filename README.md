@@ -1,2 +1,2 @@
 # BookStore
-Small java se project.
+Simple library management system for students
